@@ -29,10 +29,10 @@ local min_rssi = 45
 
 -- SWITCHES
 local SW_FS = 'sf'
-local SW_ARM = 'sd'
-local SW_FMODE = 'sc'
-local SW_BBOX = 'sa'
-local SW_BEEPR = 'se'
+local SW_ARM = 'sb'
+local SW_FMODE = 'sa'
+local SW_BBOX = 'sh'
+local SW_BEEPR = 'sd'
 
 -- Data Sources
 local DS_VFAS = 'VFAS'
